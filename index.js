@@ -3,7 +3,7 @@
  */
 
 import {AppRegistry} from 'react-native';
-import exe4 from './exe4';
+import exe6 from './exe6';
 import {name as appName} from './app.json';
 
-AppRegistry.registerComponent(appName, () => exe4);
+AppRegistry.registerComponent(appName, () => exe6);
